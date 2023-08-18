@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(9, 11, 11);
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+    justify-items: center;
+    align-items: center;
+
+}
+
+.counter{
+    margin-left: 10px;
+    font-size: 6vh;
+    font-weight: bold;
+}
+
+button{
+    width: 10vh;
+    height: 10vh;
+    border-radius: 50%;
+    border: none;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color: #fff;
+    text-align: center;
+    font-size: 3vh;
+    margin: 2px;
+}
+
+.num{
+    background-color: rgb(83, 82, 81);
+}
+
+.mark{
+    background-color: rgb(241, 176, 23);
+    font-size: 4vh;
+}
+
+.mark_top{
+    background-color: rgb(190, 190, 190);
+    color: black;
+}
+
+.zero{
+    width: 21.4vh;
+    border-radius: 5vh;
+}
+
+/*
+.division{
+    margin-left: 22.5vh;
+}
+*/
